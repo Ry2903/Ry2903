@@ -13,4 +13,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 Some statistics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry2903&layout=compact)](https://github.com/Ry2903/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ry2903&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
