@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Ryan Reis (@Ry2903)
-- 👀 I’m interested in coding, reading, listening to music, learning new things.
-- 🌱 I’m currently learning how to code in CSS and SQL
-- 💞️ I’m looking to collaborate on whatever!!
-- 📫 How to reach me: Instagram: @ryan_reis2903; E-Mail: ryanbr2903@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I don't know so much of coding :)
+### Hi! I'm Ryan 👋  
 
-<!---
-Ry2903/Ry2903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👤 About me:
+- I'm a student of systems development;
+- I'm currently studying MySQl and PHP;
+
+# 🔗 Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ryanbr2903@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan_reis2903/)
+
+# 🖥️ My skills:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 📊 Some statistics:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry2903&layout=compact)](https://github.com/Ry2903/github-readme-stats)
