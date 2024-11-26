@@ -1,7 +1,7 @@
 # Hi! I'm Ryan 👋  
 
 ## 👤 About me:
-- 🧑🏾‍💻 Student of systems development at [ETEC Camargo Aranha](https://www.eteccamargoaranha.com.br);
+- 🧑🏾‍💻 Student of systems development at [ETEC Camargo Aranha](http://www.eteccamargoaranha.com.br);
 - 📚 Currently studying MySQL and PHP;
 
 ## 🔗 Connect with me:
