@@ -25,7 +25,7 @@
 ### 🖥️ Statistics:
 <p align="center">
   <a href="https://www.github.com/Ry2903">
-    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,firebase,git,github,ps&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,firebase,git,github,ps,figma&perline=3"/>
   </a>
 </p>
 
